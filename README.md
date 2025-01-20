@@ -1,11 +1,9 @@
 # 👋 Hi, I'm Mozzesdev
 
-Welcome to my GitHub profile! I’m a developer passionate about improving the digital economy in Venezuela through innovative technological solutions. I specialize in payment verification and automation, aiming to streamline processes and ensure secure, efficient transactions.
+Welcome to my GitHub profile! I’m a developer passionate about improving the digital economy in Venezuela through innovative technological solutions.
 
 ## 🚀 About Me
 
-- 🌱 Currently working on projects that focus on automating and optimizing digital payment verification.
-- 💡 Dedicated to developing solutions that contribute to the growth of the digital economy.
 - ⚙️ I enjoy working with **Python**, **JavaScript**, **SQL**, and I'm always open to exploring new technologies.
 - 📫 Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/mozzesdev/) or email me at mozzesdev@gmail.com.
 
@@ -18,7 +16,7 @@ Welcome to my GitHub profile! I’m a developer passionate about improving the d
 
 ## 🌍 Featured Projects
 
-- **[PaySync]**: A digital payment verification system designed to automate real-time processes and improve the efficiency of financial transactions.
+- **[VDownloader]**: A simple user interface app to watch and download videos from youtube.
 
 ## 🎯 Objective
 
