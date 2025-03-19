@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I’m a developer passionate about improving the d
 
 - **Languages:** Java, JavaScript, SQL
 - **Databases:** MySQL, PostgreSQL, MongoDB
-- **Frameworks:** Django, Flask, Express
+- **Frameworks:** Next.js, Angular, Express
 - **Other tools:** Docker, Git, CI/CD
 
 ## 🌍 Featured Projects
